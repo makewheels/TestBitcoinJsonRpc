@@ -1,0 +1,1 @@
+测试java bitcoind json rpc调用，模拟一次比特币收款
